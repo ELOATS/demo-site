@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>show on Material Docs</title>
+    <link>http://localhost:8080/demo/</link>
+    <description>Recent content in show on Material Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 12:15:37 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:8080/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>show article</title>
+      <link>http://localhost:8080/demo/2020-03-01t122720/</link>
+      <pubDate>Sun, 01 Mar 2020 12:27:20 +0800</pubDate>
+      
+      <guid>http://localhost:8080/demo/2020-03-01t122720/</guid>
+      <description>子标题 1 正文&amp;hellip;
+子标题 2 正文&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
